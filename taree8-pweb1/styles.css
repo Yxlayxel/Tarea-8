@@ -1,0 +1,13 @@
+h2 {
+    color: pink;
+
+}
+/*Estilos para un selector de una clase*/
+.color-h2 {
+    color: darkmagenta;
+}
+/*Estilos para un selector de un indentificador*/
+#color-h1 {
+    color: gold;
+    background-color: black;
+}
